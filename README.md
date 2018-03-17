@@ -6,7 +6,7 @@ This repo hosts a few python scripts implementing miscellaneous graph algorithms
 If you want to run the tests, you can use:
 
 ```
-python -m unittest discover -s test -p "*_test.py"
+python -m unittest discover 
 ```
 
 ## Cleaning the directory:
